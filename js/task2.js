@@ -1,3 +1,4 @@
 
-let text = 'js';
-console.log(str.toUpperCase());
+
+let NewText = 'js';
+console.log(NewText.toUpperCase());
